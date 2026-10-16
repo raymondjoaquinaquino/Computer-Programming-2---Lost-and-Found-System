@@ -9,9 +9,22 @@ class Student(User):
     super.__init__(name, email, school_id)
     self.course = course
 
+  
+  def info(self):
+    print(f"Name: {self.name}")
+    print(f"Email: {self.email}")
+    print(f"School ID: {self.school_id}")
+    print(f"Course: {self.course}")
+
 class Staff(User):
   def __init__(self, name, email, school_id):
     super.__init__(name, email, school_id)
+
+  def info(self):
+    print(f"Name: {self.name}")
+    print(f"Email: {self.email}")
+    print(f"School ID: {self.school_id}")
+    print(f"Course: {self.course}")
 
 class LostItem:
   def __init__(self, item_id, name, description):
