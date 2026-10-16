@@ -17,8 +17,9 @@ class Student(User):
     print(f"Course: {self.course}")
 
 class Staff(User):
-  def __init__(self, name, email, school_id):
+  def __init__(self, name, email, school_id, status):
     super.__init__(name, email, school_id)
+    self.status = status
 
   def info(self):
     print(f"Name: {self.name}")
