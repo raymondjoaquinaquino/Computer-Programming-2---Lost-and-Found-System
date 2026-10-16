@@ -26,6 +26,16 @@ class ReturnRecord:
   
 def main():
   print("Welcome to the Lost and Found Management System")
+     
+  ask = input("Are you a staff or a student: ")
+  while ask == "":
+      print("Error")
+      print("")
+      ask = input("Are you a staff or a student: ")
+      if ask == "Staff".casefold():
+            print("Teacher")
+        elif ask == "Student".casefold():
+            print("Student")
 
 
 if __name__ == "__main__":
