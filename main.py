@@ -14,13 +14,13 @@ class Staff(User):
     super.__init__(name, email, school_id)
 
 class LostItem:
-  def __init__(item_id, name, description):
+  def __init__(self, item_id, name, description):
     self.item_id = item_id
     self.name = name
     self.description = description
 
 class ReturnRecord:
-  def __init__(datereturned, item_id):
+  def __init__(self, datereturned, item_id):
     self.datereturned = datereturned
     self.item_id = item_id
   
