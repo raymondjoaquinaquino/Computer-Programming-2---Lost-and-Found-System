@@ -41,9 +41,13 @@ class ReturnRecord:
 def main():
   print("Welcome to the Lost and Found Management System")
   while True:
-    ask = input("Are you a staff or a student: ").strip()
+    ask = input("Are you a staff or a student: ")
     if ask == "":
       print("Error, try again")
+    elif ask not in ["Student", "Staff"]:
+      print("This is invalid")
+      print("Please follow the correct format")
+      
     else:
       break
   if ask == "Staff":
