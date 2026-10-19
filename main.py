@@ -6,7 +6,7 @@ class User:
 
 class Student(User):
   def __init__(self, name, email, school_id, course):
-    super.__init__(name, email, school_id)
+    super().__init__(name, email, school_id)
     self.course = course
 
   
@@ -18,7 +18,7 @@ class Student(User):
 
 class Staff(User):
   def __init__(self, name, email, school_id, status):
-    super.__init__(name, email, school_id)
+    super().__init__(name, email, school_id)
     self.status = status
     
   def info(self):
