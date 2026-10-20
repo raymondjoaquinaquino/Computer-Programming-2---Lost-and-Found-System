@@ -28,15 +28,17 @@ class Staff(User):
     print(f"Employee Status: {self.status}")
 
 class LostItem:
-  def __init__(self, item_id, name, description):
+  def __init__(self, item_id, name, description, is_found: bool = False):
     self.item_id = item_id
     self.name = name
     self.description = description
+    self.is_found = is_found
 
 class ReturnRecord:
-  def __init__(self, datereturned, item_id):
+  def __init__(self, datereturned, item_id, is_returned: bool = False):
     self.datereturned = datereturned
     self.item_id = item_id
+    self.is_returned = is_returned
   
 def main():
   print("Welcome to the Lost and Found Management System")
@@ -75,6 +77,9 @@ def main():
     print("============================")
     student = Student(name, email, id, course)
     student.info()
+  else:
+    print("User not identified")
+    
 
 
 if __name__ == "__main__":
