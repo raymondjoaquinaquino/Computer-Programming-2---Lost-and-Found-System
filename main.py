@@ -84,6 +84,20 @@ def main():
 
 if __name__ == "__main__":
   main()
+  while True:
+    answer = input("What would you like to do?: ")
+    if answer == "":
+      print("Error. Please input an action")
+    elif answer not in ["Report", "Search"]:
+      print("Action is not valid")
+    else:
+      break
+  if answer == "Search":
+    print("Prompt to the search")
+  elif answer == "Report":
+    print("Prompt the reported item")
+  else: 
+    print("Error")
   
   
 
