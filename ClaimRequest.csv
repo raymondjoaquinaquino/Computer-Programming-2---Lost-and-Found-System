@@ -1,0 +1,51 @@
+claim_id,item_id,student_id,proof_of_ownership,claim_status,submitted_at,reviewed_by_user_id,reviewed_at,claim_deadline
+1,32,131,Identified engraved initials and the exact color before viewing the item.,Approved,2026-08-20 14:46:00,1,2026-08-22 00:46:00,2026-08-27 14:46:00
+2,26,145,Could not verify ownership; details did not match the item.,Rejected,2026-08-21 13:04:00,2,2026-08-22 20:04:00,2026-08-28 13:04:00
+3,43,154,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-08-21 19:20:00,4,2026-08-22 15:20:00,2026-08-28 19:20:00
+4,46,145,Described unique marks and contents accurately; name matched ID.,Approved,2026-08-21 20:55:00,2,2026-08-22 05:55:00,2026-08-28 20:55:00
+5,43,141,Showed a photo of the item taken before it was lost.,Approved,2026-08-23 15:20:00,4,2026-08-24 00:20:00,2026-08-30 15:20:00
+6,26,119,Correctly named the contents and a distinctive scratch or sticker.,Approved,2026-08-23 20:04:00,2,2026-08-24 20:04:00,2026-08-30 20:04:00
+7,30,140,Showed a photo of the item taken before it was lost.,Approved,2026-08-24 22:27:00,1,2026-08-25 18:27:00,2026-08-31 22:27:00
+8,6,128,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-08-25 22:10:00,1,2026-08-26 03:10:00,2026-09-01 22:10:00
+9,13,114,Described unique marks and contents accurately; name matched ID.,Approved,2026-08-26 17:58:00,1,2026-08-27 20:58:00,2026-09-02 17:58:00
+10,12,109,Description too generic; could not identify contents.,Rejected,2026-08-26 21:56:00,3,2026-08-28 01:56:00,2026-09-02 21:56:00
+11,6,154,Showed a photo of the item taken before it was lost.,Approved,2026-08-27 03:10:00,2,2026-08-28 00:10:00,2026-09-03 03:10:00
+12,28,151,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-08-28 18:08:00,4,2026-08-30 03:08:00,2026-09-04 18:08:00
+13,37,159,Description too generic; could not identify contents.,Rejected,2026-08-29 09:59:00,4,2026-08-29 22:59:00,2026-09-05 09:59:00
+14,28,138,Correctly named the contents and a distinctive scratch or sticker.,Approved,2026-08-31 03:08:00,2,2026-09-01 16:08:00,2026-09-07 03:08:00
+15,24,117,Claimed color and brand did not match the found item.,Rejected,2026-09-01 11:04:00,1,2026-09-03 01:04:00,2026-09-08 11:04:00
+16,17,107,Correctly named the contents and a distinctive scratch or sticker.,Approved,2026-09-01 15:03:00,1,2026-09-03 02:03:00,2026-09-08 15:03:00
+17,27,154,Description too generic; could not identify contents.,Rejected,2026-09-02 19:15:00,3,2026-09-03 18:15:00,2026-09-09 19:15:00
+18,24,103,Identified engraved initials and the exact color before viewing the item.,Approved,2026-09-04 01:04:00,2,2026-09-05 05:04:00,2026-09-11 01:04:00
+19,16,151,Correctly named the contents and a distinctive scratch or sticker.,Approved,2026-09-04 16:01:00,2,2026-09-05 14:01:00,2026-09-11 16:01:00
+20,11,135,Provided purchase receipt and serial number matching the item.,Approved,2026-09-05 09:18:00,3,2026-09-07 01:18:00,2026-09-12 09:18:00
+21,50,158,Identified engraved initials and the exact color before viewing the item.,Approved,2026-09-07 12:42:00,1,2026-09-08 17:42:00,2026-09-14 12:42:00
+22,23,128,Identified engraved initials and the exact color before viewing the item.,Approved,2026-09-07 16:57:00,1,2026-09-08 21:57:00,2026-09-14 16:57:00
+23,2,107,Described unique marks and contents accurately; name matched ID.,Approved,2026-09-07 22:29:00,3,2026-09-08 10:29:00,2026-09-14 22:29:00
+24,21,142,Claimed color and brand did not match the found item.,Rejected,2026-09-08 12:59:00,3,2026-09-08 18:59:00,2026-09-15 12:59:00
+25,21,133,Provided purchase receipt and serial number matching the item.,Approved,2026-09-09 18:59:00,3,2026-09-10 10:59:00,2026-09-16 18:59:00
+26,35,110,Provided purchase receipt and serial number matching the item.,Approved,2026-09-10 11:55:00,1,2026-09-11 19:55:00,2026-09-17 11:55:00
+27,20,126,Showed a photo of the item taken before it was lost.,Approved,2026-09-12 16:10:00,3,2026-09-13 01:10:00,2026-09-19 16:10:00
+28,44,116,Showed a photo of the item taken before it was lost.,Approved,2026-09-12 17:58:00,3,2026-09-13 18:58:00,2026-09-19 17:58:00
+29,48,122,Identified engraved initials and the exact color before viewing the item.,Approved,2026-09-12 19:05:00,4,2026-09-14 02:05:00,2026-09-19 19:05:00
+30,36,152,Identified engraved initials and the exact color before viewing the item.,Approved,2026-09-13 09:03:00,4,2026-09-13 17:03:00,2026-09-20 09:03:00
+31,25,143,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-09-14 10:37:00,3,2026-09-14 22:37:00,2026-09-21 10:37:00
+32,34,137,Described unique marks and contents accurately; name matched ID.,Approved,2026-09-14 19:08:00,4,2026-09-16 07:08:00,2026-09-21 19:08:00
+33,1,124,Could not verify ownership; details did not match the item.,Rejected,2026-09-14 19:20:00,4,2026-09-16 10:20:00,2026-09-21 19:20:00
+34,41,139,Showed a photo of the item taken before it was lost.,Approved,2026-09-15 21:45:00,4,2026-09-17 10:45:00,2026-09-22 21:45:00
+35,25,159,Showed a photo of the item taken before it was lost.,Approved,2026-09-15 22:37:00,3,2026-09-17 05:37:00,2026-09-22 22:37:00
+36,1,119,Showed a photo of the item taken before it was lost.,Approved,2026-09-17 10:20:00,1,2026-09-19 02:20:00,2026-09-24 10:20:00
+37,29,111,Provided purchase receipt and serial number matching the item.,Approved,2026-09-17 19:51:00,3,2026-09-19 08:51:00,2026-09-24 19:51:00
+38,42,129,Described unique marks and contents accurately; name matched ID.,Approved,2026-09-19 14:03:00,4,2026-09-20 23:03:00,2026-09-26 14:03:00
+39,14,140,Described unique marks and contents accurately; name matched ID.,Approved,2026-09-20 20:32:00,2,2026-09-21 11:32:00,2026-09-27 20:32:00
+40,9,129,Claimed color and brand did not match the found item.,Rejected,2026-09-26 22:46:00,1,2026-09-27 10:46:00,2026-10-03 22:46:00
+41,18,153,Correctly named the contents and a distinctive scratch or sticker.,Pending,2026-09-27 09:46:00,,,2026-10-04 09:46:00
+42,9,136,Provided purchase receipt and serial number matching the item.,Pending,2026-09-28 10:46:00,,,2026-10-05 10:46:00
+43,22,103,Provided purchase receipt and serial number matching the item.,Approved,2026-09-29 12:45:00,4,2026-09-30 15:45:00,2026-10-06 12:45:00
+44,19,153,Described unique marks and contents accurately; name matched ID.,Approved,2026-09-30 17:49:00,2,2026-09-30 23:49:00,2026-10-07 17:49:00
+45,15,102,Described unique marks and contents accurately; name matched ID.,Pending,2026-10-05 12:34:00,,,2026-10-12 12:34:00
+46,4,118,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-10-08 17:25:00,2,2026-10-09 19:25:00,2026-10-15 17:25:00
+47,5,141,"Photo provided appeared to be a stock image, not the actual item.",Rejected,2026-10-08 19:05:00,4,2026-10-09 16:05:00,2026-10-15 19:05:00
+48,45,109,Described unique marks and contents accurately; name matched ID.,Pending,2026-10-10 08:54:00,,,2026-10-17 08:54:00
+49,5,155,Provided purchase receipt and serial number matching the item.,Pending,2026-10-10 16:05:00,,,2026-10-17 16:05:00
+50,31,115,Could not verify ownership; details did not match the item.,Rejected,2026-10-12 20:03:00,2,2026-10-13 02:03:00,2026-10-19 20:03:00

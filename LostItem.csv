@@ -1,0 +1,51 @@
+item_id,name,description,date_reported,date_time_found,location_found,image_path,is_found,is_returned,status,reported_by_user_id,return_record_id
+1,Drawing Tablet,Small Wacom drawing tablet with a stylus clipped on the side.,2026-09-13 19:24:00,2026-09-13 18:20:00,Basketball Court,uploads/items/item_001.jpg,TRUE,TRUE,Returned,114,42
+2,Water Bottle,Clear plastic bottle with a green cap and a name written in marker.,2026-09-05 18:15:00,2026-09-05 17:29:00,Science Hall Lobby,uploads/items/item_002.jpg,TRUE,TRUE,Returned,132,22
+3,Black Cap,Black baseball cap with an embroidered white 'NY' logo.,2026-09-17 21:02:00,2026-09-17 18:35:00,Science Hall Lobby,uploads/items/item_003.jpg,TRUE,FALSE,Found,109,
+4,Notebook,Green spiral notebook with chemistry notes and a doodled cactus on the cover.,2026-10-05 18:07:00,2026-10-05 16:25:00,Gymnasium Bleachers,uploads/items/item_004.jpg,TRUE,FALSE,Found,148,
+5,AirPods Case,White wireless earbuds charging case with a small crack on the lid.,2026-10-07 14:27:00,2026-10-07 14:05:00,Oval Track Field,uploads/items/item_005.jpg,TRUE,FALSE,Claim Pending,109,
+6,Eyeglass Case,Brown leather eyeglass case with a snap closure.,2026-08-24 19:08:00,2026-08-24 17:10:00,Lecture Hall A,uploads/items/item_006.jpg,TRUE,TRUE,Returned,108,10
+7,Gold Ring,Thin gold band ring with a tiny engraving inside.,2026-09-26 13:38:00,,,uploads/items/item_007.jpg,FALSE,FALSE,Reported,105,
+8,Laptop Charger,"65W USB-C charger with white braided cable, tape marking on the brick.",2026-10-10 11:35:00,,,uploads/items/item_008.jpg,FALSE,FALSE,Reported,130,
+9,Mouse,Black wireless mouse with a missing USB receiver.,2026-09-25 18:25:00,2026-09-25 17:46:00,Basketball Court,uploads/items/item_009.jpg,TRUE,FALSE,Claim Pending,156,
+10,Tote Bag,"Canvas tote bag with a bookstore logo, contains two paperbacks.",2026-10-11 11:49:00,,,uploads/items/item_010.jpg,FALSE,FALSE,Reported,157,
+11,Sunglasses,Tortoiseshell sunglasses with a small chip on the left lens.,2026-09-02 10:19:00,2026-09-02 08:18:00,Student Center Cafeteria,uploads/items/item_011.jpg,TRUE,TRUE,Returned,142,25
+12,Power Bank,"10,000 mAh black power bank with a cracked corner.",2026-08-25 20:13:00,2026-08-25 18:56:00,Chapel Garden Bench,uploads/items/item_012.jpg,TRUE,FALSE,Found,130,
+13,Red Backpack,Red 20L backpack with a broken front zipper pull and a name tag peeled off.,2026-08-25 16:35:00,2026-08-25 15:58:00,Oval Track Field,uploads/items/item_013.jpg,TRUE,TRUE,Returned,149,9
+14,Student ID Card,University ID card in a clear plastic holder with a green lanyard.,2026-09-17 20:17:00,2026-09-17 17:32:00,Gymnasium Bleachers,uploads/items/item_014.jpg,TRUE,FALSE,Approved,141,
+15,Id Lanyard,Yellow lanyard with a retractable reel and a metal clip.,2026-10-04 11:59:00,2026-10-04 09:34:00,Coffee Shop near Gate 1,uploads/items/item_015.jpg,TRUE,FALSE,Claim Pending,110,
+16,Lunch Box,Pink insulated lunch box with a floral print and an empty container.,2026-09-01 14:39:00,2026-09-01 14:01:00,Coffee Shop near Gate 1,uploads/items/item_016.jpg,TRUE,TRUE,Returned,101,19
+17,Prescription Glasses,Round black-frame glasses in a maroon hard case.,2026-08-31 11:14:00,2026-08-31 10:03:00,Coffee Shop near Gate 1,uploads/items/item_017.jpg,TRUE,TRUE,Returned,124,17
+18,Earphones,White wired earphones with a tangled cable and a 3.5mm jack.,2026-09-26 11:00:00,2026-09-26 08:46:00,Oval Track Field,uploads/items/item_018.jpg,TRUE,FALSE,Claim Pending,137,
+19,Rosary Bracelet,Wooden bead bracelet with a small silver cross.,2026-09-28 16:31:00,2026-09-28 15:49:00,Student Center Cafeteria,uploads/items/item_019.jpg,TRUE,FALSE,Approved,105,
+20,Black Umbrella,Large black foldable umbrella with a wooden handle and a small tear near one rib.,2026-09-09 16:27:00,2026-09-09 15:10:00,Chapel Garden Bench,uploads/items/item_020.jpg,TRUE,TRUE,Returned,143,36
+21,Umbrella (Compact),Small purple compact umbrella with a button release.,2026-09-06 13:27:00,2026-09-06 10:59:00,Arts Building Corridor,uploads/items/item_021.jpg,TRUE,TRUE,Returned,156,32
+22,Textbook,"Calculus: Early Transcendentals, 8th edition, highlighted throughout.",2026-09-26 12:14:00,2026-09-26 10:45:00,Admin Building Entrance,uploads/items/item_022.jpg,TRUE,FALSE,Approved,147,
+23,Jacket,"Navy blue windbreaker jacket, size L, with a zipper pocket on the chest.",2026-09-04 17:19:00,2026-09-04 14:57:00,Computer Lab 3,uploads/items/item_023.jpg,TRUE,TRUE,Returned,143,26
+24,Folder,Orange plastic folder with printed lecture slides on the topic of ethics.,2026-08-29 11:40:00,2026-08-29 10:04:00,"Main Library, 2nd Floor",uploads/items/item_024.jpg,TRUE,TRUE,Returned,108,18
+25,Phone Case,Clear phone case with a lavender gradient and a pop socket.,2026-09-12 11:43:00,2026-09-12 10:37:00,"Main Library, 2nd Floor",uploads/items/item_025.jpg,TRUE,TRUE,Returned,138,39
+26,Tumbler,Matte green 20 oz tumbler with a straw and a dent at the base.,2026-08-19 10:22:00,2026-08-19 10:04:00,Oval Track Field,uploads/items/item_026.jpg,TRUE,TRUE,Returned,105,4
+27,Mechanical Keyboard,Compact 60% keyboard with pastel pink keycaps.,2026-08-31 16:36:00,2026-08-31 15:15:00,Basketball Court,uploads/items/item_027.jpg,TRUE,FALSE,Found,122,
+28,Pencil Case,"Blue zippered pencil case holding pens, a ruler, and two highlighters.",2026-08-27 17:44:00,2026-08-27 15:08:00,Lecture Hall A,uploads/items/item_028.jpg,TRUE,TRUE,Returned,132,13
+29,Scarf,Long maroon knit scarf with white stripes at both ends.,2026-09-15 16:45:00,2026-09-15 14:51:00,Gymnasium Bleachers,uploads/items/item_029.jpg,TRUE,FALSE,Approved,131,
+30,Gym Towel,Gray microfiber towel with a faint print of a basketball.,2026-08-21 19:07:00,2026-08-21 17:27:00,Admin Building Entrance,uploads/items/item_030.jpg,TRUE,TRUE,Returned,107,6
+31,Drafting Set,Architecture drafting set in a metal tin with a compass and set squares.,2026-10-09 21:00:00,2026-10-09 18:03:00,Basketball Court,uploads/items/item_031.jpg,TRUE,FALSE,Found,127,
+32,Tablet,10-inch Android tablet with a purple folio cover.,2026-08-19 15:22:00,2026-08-19 13:46:00,Arts Building Corridor,uploads/items/item_032.jpg,TRUE,TRUE,Returned,107,5
+33,Planner,"2026 weekly planner, navy blue cover, with a ribbon bookmark.",2026-08-30 10:12:00,,,uploads/items/item_033.jpg,FALSE,FALSE,Reported,156,
+34,Headphones,Over-ear black headphones with a folded headband and worn ear pads.,2026-09-12 16:06:00,2026-09-12 14:08:00,Student Center Cafeteria,uploads/items/item_034.jpg,TRUE,TRUE,Returned,113,40
+35,Samsung Galaxy Buds,Black wireless earbuds in a case with a lanyard loop.,2026-09-08 11:24:00,2026-09-08 10:55:00,Computer Lab 3,uploads/items/item_035.jpg,TRUE,TRUE,Returned,118,28
+36,Portable Speaker,Small blue Bluetooth speaker with a carabiner attachment.,2026-09-12 10:59:00,2026-09-12 08:03:00,Chapel Garden Bench,uploads/items/item_036.jpg,TRUE,TRUE,Returned,152,37
+37,Shoes,"Pair of white sneakers, size 8, with a green sticker on the heel.",2026-08-26 10:09:00,2026-08-26 08:59:00,Student Center Cafeteria,uploads/items/item_037.jpg,TRUE,FALSE,Found,154,
+38,Casio Calculator,"Black scientific calculator, model fx-991, initials 'M.R.' written on the back.",2026-10-06 14:13:00,,,uploads/items/item_038.jpg,FALSE,FALSE,Reported,127,
+39,Lab Coat,"White lab coat, size S, with a name embroidered on the pocket.",2026-09-27 07:10:00,,,uploads/items/item_039.jpg,FALSE,FALSE,Reported,156,
+40,Badminton Racket,"Yonex racket with a yellow grip, in a half-length black cover.",2026-08-25 15:22:00,2026-08-25 13:16:00,Science Hall Lobby,uploads/items/item_040.jpg,TRUE,FALSE,Found,125,
+41,Gray Hoodie,"Gray pullover hoodie, size M, with a university crest on the chest.",2026-09-12 19:59:00,2026-09-12 17:45:00,Student Center Cafeteria,uploads/items/item_041.jpg,TRUE,TRUE,Returned,128,41
+42,Sketchbook,A5 black sketchbook with pencil drawings of buildings.,2026-09-17 12:41:00,2026-09-17 10:03:00,Bus Stop near Gate 2,uploads/items/item_042.jpg,TRUE,FALSE,Approved,113,
+43,House Keys,Set of 3 keys on a red carabiner with a small bear keychain.,2026-08-19 18:44:00,2026-08-19 18:20:00,"Main Library, 2nd Floor",uploads/items/item_043.jpg,TRUE,TRUE,Returned,135,3
+44,iPhone 13,Midnight iPhone 13 in a clear case with a pressed flower inside.,2026-09-09 18:23:00,2026-09-09 15:58:00,Student Center Cafeteria,uploads/items/item_044.jpg,TRUE,TRUE,Returned,138,31
+45,Bike Helmet,"Matte white bicycle helmet, size M, with a reflective strip.",2026-10-07 09:51:00,2026-10-07 08:54:00,Engineering Building Room 204,uploads/items/item_045.jpg,TRUE,FALSE,Claim Pending,104,
+46,USB Flash Drive,32GB silver flash drive on a keyring labeled 'THESIS'.,2026-08-20 19:05:00,2026-08-20 17:55:00,Admin Building Entrance,uploads/items/item_046.jpg,TRUE,TRUE,Returned,139,2
+47,Wristwatch,Silver analog wristwatch with a scratched glass face and brown strap.,2026-10-14 10:37:00,,,uploads/items/item_047.jpg,FALSE,FALSE,Reported,108,
+48,Blue Hydro Flask,32 oz navy blue insulated water bottle with stickers of a cat and a mountain.,2026-09-10 18:02:00,2026-09-10 16:05:00,Basketball Court,uploads/items/item_048.jpg,TRUE,FALSE,Approved,139,
+49,Wallet,Brown leather bifold wallet with a faded corner; contains no cash.,2026-09-24 12:43:00,2026-09-24 11:13:00,Gymnasium Bleachers,uploads/items/item_049.jpg,TRUE,FALSE,Found,138,
+50,Digital Camera,Compact Canon camera with a wrist strap and a 16GB SD card.,2026-09-05 12:37:00,2026-09-05 09:42:00,Science Hall Lobby,uploads/items/item_050.jpg,TRUE,TRUE,Returned,117,24

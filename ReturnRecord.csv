@@ -1,0 +1,51 @@
+return_id,item_id,date_returned,status,claim_id,processed_by_user_id
+1,32,,Rescheduled,1,2
+2,46,2026-08-25 09:05:00,Completed,4,4
+3,43,2026-08-25 16:11:00,Completed,5,1
+4,26,2026-08-26 15:20:00,Completed,6,2
+5,32,2026-08-26 17:01:00,Completed,1,4
+6,30,2026-08-27 14:21:00,Completed,7,4
+7,13,,Rescheduled,9,4
+8,6,,Rescheduled,11,2
+9,13,2026-08-30 16:01:00,Completed,9,1
+10,6,2026-08-31 09:15:00,Completed,11,2
+11,28,,No Show,14,2
+12,17,,No Show,16,4
+13,28,2026-09-05 16:42:00,Completed,14,1
+14,24,,No Show,18,3
+15,16,,Rescheduled,19,2
+16,11,,No Show,20,1
+17,17,2026-09-08 11:38:00,Completed,16,1
+18,24,2026-09-08 13:36:00,Completed,18,4
+19,16,2026-09-09 10:44:00,Completed,19,3
+20,23,,No Show,22,4
+21,50,,No Show,21,4
+22,2,2026-09-10 15:52:00,Completed,23,3
+23,21,,Rescheduled,25,2
+24,50,2026-09-11 15:23:00,Completed,21,4
+25,11,2026-09-13 14:04:00,Completed,20,3
+26,23,2026-09-13 17:49:00,Completed,22,4
+27,20,,Rescheduled,27,3
+28,35,2026-09-14 15:21:00,Completed,26,1
+29,36,,Rescheduled,30,2
+30,48,,No Show,29,2
+31,44,2026-09-15 13:56:00,Completed,28,3
+32,21,2026-09-15 16:15:00,Completed,25,4
+33,34,,No Show,32,3
+34,25,,Rescheduled,35,3
+35,41,,Rescheduled,34,3
+36,20,2026-09-19 12:22:00,Completed,27,3
+37,36,2026-09-19 16:50:00,Completed,30,1
+38,1,,Rescheduled,36,1
+39,25,2026-09-21 10:46:00,Completed,35,2
+40,34,2026-09-22 12:19:00,Completed,32,3
+41,41,2026-09-22 14:44:00,Completed,34,4
+42,1,2026-09-23 12:47:00,Completed,36,4
+43,22,,No Show,43,3
+44,19,,Rescheduled,44,1
+45,14,,Scheduled,39,
+46,19,,Scheduled,44,
+47,22,,Scheduled,43,
+48,48,,Scheduled,29,
+49,29,,Scheduled,37,
+50,42,,Scheduled,38,
