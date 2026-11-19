@@ -1,3 +1,9 @@
+import time
+import csv
+import os
+import json
+
+
 class User:
   def __init__(self, name, email, school_id):
     self.name = name
@@ -94,8 +100,67 @@ if __name__ == "__main__":
       break
   if answer == "Search":
     print("Prompt to the search")
+    ans = int(input("Enter the item ID: ")
+    with open("LostItem.csv", mode = "r", newline = "", encoding = "utf-8") as csv_file:
+      read = csv.reader(csv_file)
+      for row in read:
+        if str(ans) in row:
+          print("Item Found")
+          print(f"Item ID: {row[0]}")
+          print(f"Iten Name:{row[1]}")
+          break
+    select = input("Would you like to retrieve the item? (Y/N): ")
+    if select == "Y":
+      print("Retrieving Item...")
+      time.sleep(2)
+      print("Item Retrieved")
+    elif select == "N":
+      print("Item not retrieved")
+
+  
+
+
+
+
+  
   elif answer == "Report":
     print("Prompt the reported item")
+    print("Please enter the information of the item you found: ")
+    time.sleep(3)
+    item_id = int(input("Enter Item ID: "))
+    item_name = input("Enter the Item name: ")
+    item_description = input("Enter the item description: ")
+    item_isfound = True
+
+    print("=======================")
+    item_info = LostItem(item_id, item_name, item_description, item_isfound)
+    item_info.itemInfo()
+    print("=======================")
+    print("Adding to the lost and found file.....")
+    time.sleep(3)
+    head = ["item_id", "name", "description"]
+    exist = os.path.isfile("LostItem.csv")
+
+    with open("LostItem (2).csv", mode = "a", newline = "", encoding = "utf-8") as csv_file:
+      write = csv.writer(csv_file)
+      if not exist:
+        write.writerow(head)
+       
+      write.writerow([item_id, item_name, item_description])
+      with open("LostItem.csv", mode = "r", newline = "", encoding = "utf-8") as csv_file:
+         read = csv.reader(csv_file)
+
+
+      print(read)
+      print("Save complete")
+
+
+
+
+
+
+
+  
   else: 
     print("Error")
   
