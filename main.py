@@ -122,7 +122,7 @@ if __name__ == "__main__":
     else:
       if answer == "Search":
         print("Prompt to the search")
-        ans = int(input("Enter the item ID: ")
+        ans = int(input("Enter the item ID: "))
         with open("LostItem.csv", mode = "r", newline = "", encoding = "utf-8") as csv_file:
           read = csv.reader(csv_file)
           for row in read:
