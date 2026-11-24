@@ -33,7 +33,7 @@ class Student(User):
 
     @year.getter
     def year(self, valid):
-       if valid < 1:
+       if valid <= 0:
           raise ValueError("Year must not be less than one")
        else:
           self._year = valid
